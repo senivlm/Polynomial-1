@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Polynomial
-{
+{ треба розмовляти зі мною
     class Polynomial
     {
         Pol[] polynomial;
